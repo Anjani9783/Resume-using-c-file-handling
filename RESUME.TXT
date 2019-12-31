@@ -1,0 +1,35 @@
+======================================================================
+                         MY RESUME                                    
+======================================================================
+Anjani Kumar Agrawal
+anjaniagrawal9783@gmail.com
+DOB:- 26-04-1999
+Add:- BIjuri,Distt-Anuppur(M.P.)
+Contt. No.:- +919783049783
+
+----------------------------------------------------------------------
+CAREER OBJECTIVE
+----------------------------------------------------------------------
+I intend to be a part of an organization where I can consistently 
+learn and develop my technical and management skills and make best
+use of it for the growth of the organization. I look forward to
+establishing myself by adapting new technologies as well
+
+----------------------------------------------------------------------
+EDUCATION
+----------------------------------------------------------------------
+Sl. no. Qualifications                     Institute  Score  Year
+     1.           10th   St. Joseph's Mission School     78  2015
+     2.           12th   St. Joseph's Mission School     65  2018
+----------------------------------------------------------------------
+
+SKILLS
+----------------------------------------------------------------------
+Programming languages:- C,Cpp, HTML, CSS
+Tools:- MS Office, MS Excel, 
+
+SOCIAL PROFILES
+----------------------------------------------------------------------
+Github- github.com/Anjani9783
+Linkedin - in.linkedin.com
+Facebook - Facebook.com
